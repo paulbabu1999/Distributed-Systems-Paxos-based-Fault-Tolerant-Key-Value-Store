@@ -1,0 +1,748 @@
+Activity - Server is running at rmi://localhost:12345/KeyValueStore - 2024-08-12 19:28:01
+Activity - Server is running at rmi://localhost:12346/KeyValueStore - 2024-08-12 19:28:01
+Activity - Server is running at rmi://localhost:12347/KeyValueStore - 2024-08-12 19:28:01
+Activity - Server is running at rmi://localhost:12348/KeyValueStore - 2024-08-12 19:28:01
+Activity - Server is running at rmi://localhost:12349/KeyValueStore - 2024-08-12 19:28:01
+Activity - Leaders elected - 2024-08-12 19:28:01
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:06
+Activity - Proposer: Request Prepare for proposal 1 - 2024-08-12 19:28:06
+Activity - At acceptor - Proposal received - 1 - 2024-08-12 19:28:06
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:06
+Activity - Proposer: PROMISE Response received for proposal 1 - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Accept request received for proposal 1 with Command PUT player Kohli - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Response given to proposal 1 : ACCEPT - 2024-08-12 19:28:06
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT player Kohli - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Asking learners to learn the command :PUT player Kohli - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:06
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:06
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:06
+Activity - Proposer: Request Prepare for proposal 2 - 2024-08-12 19:28:06
+Activity - At acceptor - Proposal received - 2 - 2024-08-12 19:28:06
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:06
+Activity - Proposer: PROMISE Response received for proposal 2 - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Accept request received for proposal 2 with Command PUT position batting - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Response given to proposal 2 : ACCEPT - 2024-08-12 19:28:06
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT position batting - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Asking learners to learn the command :PUT position batting - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:06
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:06
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:06
+Activity - Proposer: Request Prepare for proposal 3 - 2024-08-12 19:28:06
+Activity - At acceptor - Proposal received - 3 - 2024-08-12 19:28:06
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:06
+Activity - Proposer: PROMISE Response received for proposal 3 - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Accept request received for proposal 3 with Command PUT strength placement - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Response given to proposal 3 : ACCEPT - 2024-08-12 19:28:06
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT strength placement - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Asking learners to learn the command :PUT strength placement - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:06
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:06
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:06
+Activity - Proposer: Request Prepare for proposal 4 - 2024-08-12 19:28:06
+Activity - At acceptor - Proposal received - 4 - 2024-08-12 19:28:06
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:06
+Activity - Proposer: PROMISE Response received for proposal 4 - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Accept request received for proposal 4 with Command PUT weakness leg spin - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Response given to proposal 4 : ACCEPT - 2024-08-12 19:28:06
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT weakness leg spin - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Asking learners to learn the command :PUT weakness leg spin - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:06
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:06
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:06
+Activity - Proposer: Request Prepare for proposal 5 - 2024-08-12 19:28:06
+Activity - At acceptor - Proposal received - 5 - 2024-08-12 19:28:06
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:06
+Activity - Proposer: PROMISE Response received for proposal 5 - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Accept request received for proposal 5 with Command PUT favorite aggression - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Response given to proposal 5 : ACCEPT - 2024-08-12 19:28:06
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT favorite aggression - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Asking learners to learn the command :PUT favorite aggression - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:06
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:06
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:06
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:06
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:06
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:08
+Activity - Proposer: Request Prepare for proposal 6 - 2024-08-12 19:28:08
+Activity - At acceptor - Proposal received - 6 - 2024-08-12 19:28:08
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:08
+Activity - Proposer: PROMISE Response received for proposal 6 - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Accept request received for proposal 6 with Command PUT player Kohli - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Response given to proposal 6 : ACCEPT - 2024-08-12 19:28:08
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT player Kohli - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Asking learners to learn the command :PUT player Kohli - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: player with value: Kohli - 2024-08-12 19:28:08
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:08
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:08
+Activity - Proposer: Request Prepare for proposal 7 - 2024-08-12 19:28:08
+Activity - At acceptor - Proposal received - 7 - 2024-08-12 19:28:08
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:08
+Activity - Proposer: PROMISE Response received for proposal 7 - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Accept request received for proposal 7 with Command PUT position batting - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Response given to proposal 7 : ACCEPT - 2024-08-12 19:28:08
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT position batting - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Asking learners to learn the command :PUT position batting - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: position with value: batting - 2024-08-12 19:28:08
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:08
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:08
+Activity - Proposer: Request Prepare for proposal 8 - 2024-08-12 19:28:08
+Activity - At acceptor - Proposal received - 8 - 2024-08-12 19:28:08
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:08
+Activity - Proposer: PROMISE Response received for proposal 8 - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Accept request received for proposal 8 with Command PUT strength placement - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Response given to proposal 8 : ACCEPT - 2024-08-12 19:28:08
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT strength placement - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Asking learners to learn the command :PUT strength placement - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: strength with value: placement - 2024-08-12 19:28:08
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:08
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:08
+Activity - Proposer: Request Prepare for proposal 9 - 2024-08-12 19:28:08
+Activity - At acceptor - Proposal received - 9 - 2024-08-12 19:28:08
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:08
+Activity - Proposer: PROMISE Response received for proposal 9 - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Accept request received for proposal 9 with Command PUT weakness leg spin - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Response given to proposal 9 : ACCEPT - 2024-08-12 19:28:08
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT weakness leg spin - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Asking learners to learn the command :PUT weakness leg spin - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: weakness with value: leg spin - 2024-08-12 19:28:08
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:08
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:08
+Activity - Proposer: Request Prepare for proposal 10 - 2024-08-12 19:28:08
+Activity - At acceptor - Proposal received - 10 - 2024-08-12 19:28:08
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:08
+Activity - Proposer: PROMISE Response received for proposal 10 - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Accept request received for proposal 10 with Command PUT favorite aggression - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Response given to proposal 10 : ACCEPT - 2024-08-12 19:28:08
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT favorite aggression - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Asking learners to learn the command :PUT favorite aggression - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:08
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:08
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:08
+Activity - PUT operation successful for key: favorite with value: aggression - 2024-08-12 19:28:08
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:08
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:12
+Activity - Proposer: Request Prepare for proposal 11 - 2024-08-12 19:28:12
+Activity - At acceptor - Proposal received - 11 - 2024-08-12 19:28:12
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:12
+Activity - Proposer: PROMISE Response received for proposal 11 - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Accept request received for proposal 11 with Command PUT some g - 2024-08-12 19:28:12
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:12
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:12
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:12
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:12
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Response given to proposal 11 : ACCEPT - 2024-08-12 19:28:12
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT some g - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Asking learners to learn the command :PUT some g - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:12
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:12
+Activity - PUT operation successful for key: some with value: g - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:12
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:12
+Activity - PUT operation successful for key: some with value: g - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:12
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:12
+Activity - PUT operation successful for key: some with value: g - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:12
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:12
+Activity - PUT operation successful for key: some with value: g - 2024-08-12 19:28:12
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:12
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:12
+Activity - PUT operation successful for key: some with value: g - 2024-08-12 19:28:12
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:12
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'some' at server rmi://localhost:12349/KeyValueStore - 2024-08-12 19:28:15
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:28:18
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:28:18
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:18
+Activity - Proposer: Request Prepare for proposal 12 - 2024-08-12 19:28:19
+Activity - At acceptor - Proposal received - 12 - 2024-08-12 19:28:19
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:19
+Activity - Proposer: PROMISE Response received for proposal 12 - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Accept request received for proposal 12 with Command DELETE some null - 2024-08-12 19:28:19
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:19
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:19
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response REJECT - 2024-08-12 19:28:19
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:19
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Response given to proposal 12 : ACCEPT - 2024-08-12 19:28:19
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command DELETE some null - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Asking learners to learn the command :DELETE some null - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:19
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:19
+Activity - DELETE operation successful for key: some - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:19
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:19
+Activity - DELETE operation successful for key: some - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:19
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:19
+Activity - DELETE operation successful for key: some - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:19
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:19
+Activity - DELETE operation successful for key: some - 2024-08-12 19:28:19
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:19
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:19
+Activity - DELETE operation successful for key: some - 2024-08-12 19:28:19
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:19
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'some' at server rmi://localhost:12348/KeyValueStore - 2024-08-12 19:28:22
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:28
+Activity - Proposer: Request Prepare for proposal 13 - 2024-08-12 19:28:28
+Activity - At acceptor - Proposal received - 13 - 2024-08-12 19:28:28
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:28
+Activity - Proposer: PROMISE Response received for proposal 13 - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Accept request received for proposal 13 with Command PUT another b - 2024-08-12 19:28:28
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:28
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:28
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response REJECT - 2024-08-12 19:28:28
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:28
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Response given to proposal 13 : ACCEPT - 2024-08-12 19:28:28
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT another b - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Asking learners to learn the command :PUT another b - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:28
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:28
+Activity - PUT operation successful for key: another with value: b - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:28
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:28
+Activity - PUT operation successful for key: another with value: b - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:28
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:28
+Activity - PUT operation successful for key: another with value: b - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:28
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:28
+Activity - PUT operation successful for key: another with value: b - 2024-08-12 19:28:28
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:28
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:28
+Activity - PUT operation successful for key: another with value: b - 2024-08-12 19:28:28
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:28
+Activity - Acceptor has restarted. - 2024-08-12 19:28:31
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'another' at server rmi://localhost:12349/KeyValueStore - 2024-08-12 19:28:34
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:39
+Activity - Proposer: Request Prepare for proposal 14 - 2024-08-12 19:28:39
+Activity - At acceptor - Proposal received - 14 - 2024-08-12 19:28:39
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:39
+Activity - Proposer: PROMISE Response received for proposal 14 - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Accept request received for proposal 14 with Command DELETE another null - 2024-08-12 19:28:39
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:39
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:39
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:39
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:39
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Response given to proposal 14 : ACCEPT - 2024-08-12 19:28:39
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command DELETE another null - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Asking learners to learn the command :DELETE another null - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:39
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:39
+Activity - DELETE operation successful for key: another - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:39
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:39
+Activity - DELETE operation successful for key: another - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:39
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:39
+Activity - DELETE operation successful for key: another - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:39
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:39
+Activity - DELETE operation successful for key: another - 2024-08-12 19:28:39
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:39
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:39
+Activity - DELETE operation successful for key: another - 2024-08-12 19:28:39
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:39
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:28:45
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:28:45
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'player' at server rmi://localhost:12349/KeyValueStore - 2024-08-12 19:28:47
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:28:53
+Activity - Proposer: Request Prepare for proposal 15 - 2024-08-12 19:28:53
+Activity - At acceptor - Proposal received - 15 - 2024-08-12 19:28:53
+Activity - response at acceptor:PROMISE - 2024-08-12 19:28:53
+Activity - Proposer: PROMISE Response received for proposal 15 - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Accept request received for proposal 15 with Command PUT player rohit - 2024-08-12 19:28:53
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:53
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response REJECT - 2024-08-12 19:28:53
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:53
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:53
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Response given to proposal 15 : ACCEPT - 2024-08-12 19:28:53
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT player rohit - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Asking learners to learn the command :PUT player rohit - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:28:53
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:28:53
+Activity - PUT operation successful for key: player with value: rohit - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:28:53
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:28:53
+Activity - PUT operation successful for key: player with value: rohit - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:28:53
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:28:53
+Activity - PUT operation successful for key: player with value: rohit - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:28:53
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:28:53
+Activity - PUT operation successful for key: player with value: rohit - 2024-08-12 19:28:53
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:28:53
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:28:53
+Activity - PUT operation successful for key: player with value: rohit - 2024-08-12 19:28:53
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:28:53
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'player' at server rmi://localhost:12348/KeyValueStore - 2024-08-12 19:28:57
+Activity - Acceptor has restarted. - 2024-08-12 19:29:00
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:29:01
+Activity - Proposer: Request Prepare for proposal 16 - 2024-08-12 19:29:01
+Activity - At acceptor - Proposal received - 16 - 2024-08-12 19:29:01
+Activity - response at acceptor:PROMISE - 2024-08-12 19:29:01
+Activity - Proposer: PROMISE Response received for proposal 16 - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Accept request received for proposal 16 with Command DELETE player null - 2024-08-12 19:29:01
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:01
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:01
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:01
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:01
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Response given to proposal 16 : ACCEPT - 2024-08-12 19:29:01
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command DELETE player null - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Asking learners to learn the command :DELETE player null - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:29:01
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:29:01
+Activity - DELETE operation successful for key: player - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:29:01
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:29:01
+Activity - DELETE operation successful for key: player - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:29:01
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:29:01
+Activity - DELETE operation successful for key: player - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:29:01
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:29:01
+Activity - DELETE operation successful for key: player - 2024-08-12 19:29:01
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:29:01
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:29:01
+Activity - DELETE operation successful for key: player - 2024-08-12 19:29:01
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:29:01
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'player' at server rmi://localhost:12348/KeyValueStore - 2024-08-12 19:29:05
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 19:29:15
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:29:15
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:29:18
+Activity - Proposer: Request Prepare for proposal 17 - 2024-08-12 19:29:18
+Activity - At acceptor - Proposal received - 17 - 2024-08-12 19:29:18
+Activity - response at acceptor:PROMISE - 2024-08-12 19:29:18
+Activity - Proposer: PROMISE Response received for proposal 17 - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Accept request received for proposal 17 with Command PUT fav food - 2024-08-12 19:29:18
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:18
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:18
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:18
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response REJECT - 2024-08-12 19:29:18
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Response given to proposal 17 : ACCEPT - 2024-08-12 19:29:18
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT fav food - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Asking learners to learn the command :PUT fav food - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:29:18
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:29:18
+Activity - PUT operation successful for key: fav with value: food - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:29:18
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:29:18
+Activity - PUT operation successful for key: fav with value: food - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:29:18
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:29:18
+Activity - PUT operation successful for key: fav with value: food - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:29:18
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:29:18
+Activity - PUT operation successful for key: fav with value: food - 2024-08-12 19:29:18
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:29:18
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:29:18
+Activity - PUT operation successful for key: fav with value: food - 2024-08-12 19:29:18
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:29:18
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'fav' at server rmi://localhost:12349/KeyValueStore - 2024-08-12 19:29:22
+Activity - Acceptor has restarted. - 2024-08-12 19:29:32
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:29:33
+Activity - Proposer: Request Prepare for proposal 18 - 2024-08-12 19:29:33
+Activity - At acceptor - Proposal received - 18 - 2024-08-12 19:29:33
+Activity - response at acceptor:PROMISE - 2024-08-12 19:29:33
+Activity - Proposer: PROMISE Response received for proposal 18 - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Accept request received for proposal 18 with Command PUT a b - 2024-08-12 19:29:33
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:33
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:33
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:33
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:33
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Response given to proposal 18 : ACCEPT - 2024-08-12 19:29:33
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command PUT a b - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Asking learners to learn the command :PUT a b - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:29:33
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:29:33
+Activity - PUT operation successful for key: a with value: b - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:29:33
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:29:33
+Activity - PUT operation successful for key: a with value: b - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:29:33
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:29:33
+Activity - PUT operation successful for key: a with value: b - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:29:33
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:29:33
+Activity - PUT operation successful for key: a with value: b - 2024-08-12 19:29:33
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:29:33
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:29:33
+Activity - PUT operation successful for key: a with value: b - 2024-08-12 19:29:33
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:29:33
+Activity - Proposal received from pauls-MacBook-Air.local-127.0.0.1 - 2024-08-12 19:29:37
+Activity - Proposer: Request Prepare for proposal 19 - 2024-08-12 19:29:37
+Activity - At acceptor - Proposal received - 19 - 2024-08-12 19:29:37
+Activity - response at acceptor:PROMISE - 2024-08-12 19:29:37
+Activity - Proposer: PROMISE Response received for proposal 19 - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Accept request received for proposal 19 with Command DELETE a null - 2024-08-12 19:29:37
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:37
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:37
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:37
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:37
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor gave response ACCEPT - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Response given to proposal 19 : ACCEPT - 2024-08-12 19:29:37
+Activity - Proposer: Acceptor Lead responded ACCEPT to the command DELETE a null - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Asking learners to learn the command :DELETE a null - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Learner rmi://localhost:12345/KeyValueStore/learner Learning value - 2024-08-12 19:29:37
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fff, -556062922874423678]]]] - 2024-08-12 19:29:37
+Activity - DELETE operation successful for key: a - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Learner rmi://localhost:12346/KeyValueStore/learner Learning value - 2024-08-12 19:29:37
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7ff2, -1516237610549544463]]]] - 2024-08-12 19:29:37
+Activity - DELETE operation successful for key: a - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Learner rmi://localhost:12347/KeyValueStore/learner Learning value - 2024-08-12 19:29:37
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fe6, -4694820061785482434]]]] - 2024-08-12 19:29:37
+Activity - DELETE operation successful for key: a - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Learner rmi://localhost:12348/KeyValueStore/learner Learning value - 2024-08-12 19:29:37
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fda, -4717156380552923265]]]] - 2024-08-12 19:29:37
+Activity - DELETE operation successful for key: a - 2024-08-12 19:29:37
+Activity - Acceptor Lead: Learner rmi://localhost:12349/KeyValueStore/learner Learning value - 2024-08-12 19:29:37
+Activity - Learning value at server: KeyValueStoreImpl[UnicastServerRef [liveRef: [endpoint:[127.0.0.1:63809](local),objID:[18382b9a:19148eb891c:-7fce, -1629379030657512456]]]] - 2024-08-12 19:29:37
+Activity - DELETE operation successful for key: a - 2024-08-12 19:29:37
+Activity - Acceptor lead: Learners learned their lesson - 2024-08-12 19:29:37
+Activity - pauls-MacBook-Air.local-127.0.0.1 GET command: Key 'a' at server rmi://localhost:12348/KeyValueStore - 2024-08-12 19:29:40
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:29:50
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:29:50
+Activity - Acceptor has restarted. - 2024-08-12 19:30:09
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:30:25
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:30:25
+Activity - Acceptor has restarted. - 2024-08-12 19:30:37
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:30:54
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:30:54
+Activity - Acceptor has restarted. - 2024-08-12 19:31:09
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:31:28
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:31:28
+Activity - Acceptor has restarted. - 2024-08-12 19:31:43
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 19:32:02
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:32:02
+Activity - Acceptor has restarted. - 2024-08-12 19:32:17
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:32:33
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:32:33
+Activity - Acceptor has restarted. - 2024-08-12 19:32:52
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:33:03
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:33:03
+Activity - Acceptor has restarted. - 2024-08-12 19:33:15
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:33:33
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:33:33
+Activity - Acceptor has restarted. - 2024-08-12 19:33:51
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:34:05
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:34:05
+Activity - Acceptor has restarted. - 2024-08-12 19:34:23
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:34:35
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:34:35
+Activity - Acceptor has restarted. - 2024-08-12 19:34:52
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 19:35:05
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:35:05
+Activity - Acceptor has restarted. - 2024-08-12 19:35:17
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 19:35:35
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:35:35
+Activity - Acceptor has restarted. - 2024-08-12 19:35:45
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:36:02
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:36:02
+Activity - Acceptor has restarted. - 2024-08-12 19:36:20
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:36:36
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:36:36
+Activity - Acceptor has restarted. - 2024-08-12 19:36:50
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:37:05
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:37:05
+Activity - Acceptor has restarted. - 2024-08-12 19:37:20
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 19:37:30
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:37:30
+Activity - Acceptor has restarted. - 2024-08-12 19:37:47
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 19:37:58
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:37:58
+Activity - Acceptor has restarted. - 2024-08-12 19:38:13
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:38:31
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:38:31
+Activity - Acceptor has restarted. - 2024-08-12 19:38:42
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:38:54
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:38:54
+Activity - Acceptor has restarted. - 2024-08-12 19:39:08
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:39:18
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:39:18
+Activity - Acceptor has restarted. - 2024-08-12 19:39:29
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:39:43
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:39:43
+Activity - Acceptor has restarted. - 2024-08-12 19:39:58
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:40:11
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:40:11
+Activity - Acceptor has restarted. - 2024-08-12 19:40:27
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:40:46
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:40:46
+Activity - Acceptor has restarted. - 2024-08-12 19:40:59
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:41:14
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:41:14
+Activity - Acceptor has restarted. - 2024-08-12 19:41:25
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:41:39
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:41:39
+Activity - Acceptor has restarted. - 2024-08-12 19:41:52
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:42:04
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:42:04
+Activity - Acceptor has restarted. - 2024-08-12 19:42:22
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 19:42:36
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:42:36
+Activity - Acceptor has restarted. - 2024-08-12 19:42:49
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 19:43:01
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:43:01
+Activity - Acceptor has restarted. - 2024-08-12 19:43:15
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 19:43:31
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:43:31
+Activity - Acceptor has restarted. - 2024-08-12 19:43:45
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:43:55
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:43:55
+Activity - Acceptor has restarted. - 2024-08-12 19:44:07
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:44:21
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:44:21
+Activity - Acceptor has restarted. - 2024-08-12 19:44:35
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 19:44:46
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:44:46
+Activity - Acceptor has restarted. - 2024-08-12 19:44:56
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:45:14
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:45:14
+Activity - Acceptor has restarted. - 2024-08-12 19:45:30
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 19:45:41
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:45:41
+Activity - Acceptor has restarted. - 2024-08-12 19:45:54
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:47:16
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:47:16
+Activity - Acceptor has restarted. - 2024-08-12 19:47:28
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 19:48:00
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:48:00
+Activity - Acceptor has restarted. - 2024-08-12 19:48:25
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 19:48:35
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:48:35
+Activity - Acceptor has restarted. - 2024-08-12 19:48:46
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:49:17
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:49:17
+Activity - Acceptor has restarted. - 2024-08-12 19:49:30
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 19:49:58
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:49:58
+Activity - Acceptor has restarted. - 2024-08-12 19:50:19
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 19:50:43
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 19:50:43
+Activity - Acceptor has restarted. - 2024-08-12 20:14:07
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 20:54:58
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 20:54:58
+Activity - Acceptor has restarted. - 2024-08-12 20:55:11
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 20:56:15
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 20:56:15
+Activity - Acceptor has restarted. - 2024-08-12 20:56:48
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 20:56:59
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 20:56:59
+Activity - Acceptor has restarted. - 2024-08-12 20:58:30
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 20:58:43
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 20:58:43
+Activity - Acceptor has restarted. - 2024-08-12 20:59:39
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 21:08:07
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 21:08:07
+Activity - Acceptor has restarted. - 2024-08-12 21:34:07
+Error - Acceptor rmi://localhost:12349/KeyValueStore/acceptor is failing... - 2024-08-12 21:34:17
+Activity - Acceptor rmi://localhost:12349/KeyValueStore/acceptor has been shut down. - 2024-08-12 21:34:17
+Activity - Acceptor has restarted. - 2024-08-12 21:34:32
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 21:34:48
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 21:34:48
+Activity - Acceptor has restarted. - 2024-08-12 21:35:05
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 21:35:24
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 21:35:24
+Activity - Acceptor has restarted. - 2024-08-12 21:35:38
+Error - Acceptor rmi://localhost:12348/KeyValueStore/acceptor is failing... - 2024-08-12 21:35:49
+Activity - Acceptor rmi://localhost:12348/KeyValueStore/acceptor has been shut down. - 2024-08-12 21:35:49
+Activity - Acceptor has restarted. - 2024-08-12 21:36:00
+Error - Acceptor rmi://localhost:12345/KeyValueStore/acceptor is failing... - 2024-08-12 21:36:18
+Activity - Acceptor rmi://localhost:12345/KeyValueStore/acceptor has been shut down. - 2024-08-12 21:36:18
+Activity - Acceptor has restarted. - 2024-08-12 21:36:37
+Error - Acceptor rmi://localhost:12346/KeyValueStore/acceptor is failing... - 2024-08-12 21:36:47
+Activity - Acceptor rmi://localhost:12346/KeyValueStore/acceptor has been shut down. - 2024-08-12 21:36:47
+Activity - Acceptor has restarted. - 2024-08-12 21:53:17
+Error - Acceptor rmi://localhost:12347/KeyValueStore/acceptor is failing... - 2024-08-12 22:21:14
+Activity - Acceptor rmi://localhost:12347/KeyValueStore/acceptor has been shut down. - 2024-08-12 22:21:14

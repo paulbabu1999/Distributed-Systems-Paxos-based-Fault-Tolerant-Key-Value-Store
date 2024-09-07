@@ -1,0 +1,712 @@
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-07-19 22:31:03.569
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-07-19 22:31:03.584
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-07-19 22:31:03.592
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-07-19 22:31:03.600
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-07-19 22:31:03.608
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-07-19 22:31:10.308
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-07-19 22:31:10.322
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-07-19 22:31:10.329
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-07-19 22:31:10.336
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-07-19 22:31:10.342
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-07-19 22:31:51.056
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-07-19 22:31:51.069
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-07-19 22:31:51.076
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-07-19 22:31:51.083
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-07-19 22:31:51.090
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-07-19 22:32:08.131
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-07-19 22:32:08.143
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-07-19 22:32:08.150
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-07-19 22:32:08.157
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-07-19 22:32:08.163
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-07-19 22:32:23.996
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-07-19 22:32:24.008
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-07-19 22:32:24.014
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-07-19 22:32:24.020
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-07-19 22:32:24.026
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: PUT 1 Red - 2024-07-19 22:33:09.475
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 1 - 2024-07-19 22:33:09.495
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 1 - 2024-07-19 22:33:25.421
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Red - 2024-07-19 22:33:25.440
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: PUT 2 Green - 2024-07-19 22:33:34.805
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 2 - 2024-07-19 22:33:34.821
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 2 - 2024-07-19 22:33:39.267
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Green - 2024-07-19 22:33:39.270
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: PUT 3 Yellow - 2024-07-19 22:34:27.904
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 3 - 2024-07-19 22:34:27.920
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: Get 3 - 2024-07-19 22:34:35.927
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Yellow - 2024-07-19 22:34:35.931
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: Get 2 - 2024-07-19 22:34:43.088
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Green - 2024-07-19 22:34:43.100
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: Get 1 - 2024-07-19 22:34:50.510
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Red - 2024-07-19 22:34:50.513
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: PUT 5 Purple - 2024-07-19 22:35:01.555
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 5 - 2024-07-19 22:35:01.574
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 5 - 2024-07-19 22:35:08.091
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Purple - 2024-07-19 22:35:08.093
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: DELETE 5 - 2024-07-19 22:35:13.427
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 5 - 2024-07-19 22:35:13.440
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 5 - 2024-07-19 22:35:23.972
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-07-19 22:35:23.973
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: PUT 5 Pink - 2024-07-19 22:35:41.298
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 5 - 2024-07-19 22:35:41.312
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 5 - 2024-07-19 22:35:55.353
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Pink - 2024-07-19 22:35:55.357
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 5 - 2024-07-19 22:36:02.671
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Pink - 2024-07-19 22:36:02.674
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: PUT 6 Black - 2024-07-19 22:36:13.800
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 6 - 2024-07-19 22:36:13.817
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 6 - 2024-07-19 22:36:17.630
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Black - 2024-07-19 22:36:17.635
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: PUT 7 White - 2024-07-19 22:36:28.484
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 7 - 2024-07-19 22:36:28.498
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 7 - 2024-07-19 22:36:36.560
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: White - 2024-07-19 22:36:36.563
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 7 - 2024-07-19 22:36:47.049
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: White - 2024-07-19 22:36:47.053
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 7 - 2024-07-19 22:36:51.991
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: White - 2024-07-19 22:36:51.992
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: DELETE 1 - 2024-07-19 22:36:56.643
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 1 - 2024-07-19 22:36:56.659
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 1 - 2024-07-19 22:37:00.158
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-07-19 22:37:00.160
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: DELETE 3 - 2024-07-19 22:37:10.330
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: 3 - 2024-07-19 22:37:10.346
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET 3 - 2024-07-19 22:37:14.007
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-07-19 22:37:14.007
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:08:26.717
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:08:26.724
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:08:26.724
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:08:26.724
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:08:26.725
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET PLAYER - 2024-08-11 20:08:38.543
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-11 20:08:38.573
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put some good - 2024-08-11 20:08:46.969
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:08:46.971
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-11 20:08:58.178
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-11 20:08:58.184
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put something - 2024-08-11 20:09:03.271
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-11 20:09:03.272
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put something baf - 2024-08-11 20:09:15.540
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:09:15.542
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-11 20:13:28.584
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:30.727
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:30.733
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:30.734
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:30.734
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:30.734
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-11 20:13:43.445
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:57.040
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:57.053
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:57.053
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:57.054
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:13:57.054
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-11 20:14:05.767
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-11 20:14:05.771
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put something g - 2024-08-11 20:14:11.483
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:14:11.484
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-11 20:17:18.625
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:17:21.448
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:17:21.453
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:17:21.454
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:17:21.454
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:17:21.458
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put something n\ - 2024-08-11 20:17:28.060
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:17:28.063
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-11 20:18:48.295
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:18:51.148
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:18:51.153
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:18:51.153
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:18:51.154
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:18:51.154
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put q b - 2024-08-11 20:18:55.306
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: ERROR: No leader - 2024-08-11 20:18:55.307
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-11 20:19:38.148
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-11 20:22:07.932
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-11 20:22:07.941
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-11 20:22:07.944
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-11 20:22:07.945
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-11 20:22:07.948
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put s q - 2024-08-11 20:22:11.968
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: s - 2024-08-11 20:22:11.973
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-11 20:23:11.517
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-11 20:23:22.187
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-11 20:23:22.201
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-11 20:23:22.212
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-11 20:23:22.222
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-11 20:23:22.231
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-11 20:23:25.027
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-11 20:23:25.043
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-11 20:23:32.717
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-11 20:23:32.721
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-11 20:23:38.090
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-11 20:23:38.108
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-11 20:23:40.817
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-11 20:23:40.819
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-11 20:23:44.443
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-11 20:23:44.459
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 10:51:08.399
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 10:51:29.472
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 10:51:29.481
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 10:51:29.485
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 10:51:29.488
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 10:51:29.491
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 11:30:53.228
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 12:01:42.390
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 12:01:42.403
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 12:01:42.409
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 12:01:42.416
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 12:01:42.425
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: \put something - 2024-08-12 12:01:50.545
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Invalid command - 2024-08-12 12:01:50.551
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 12:01:56.537
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 12:01:56.552
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 12:01:59.268
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 12:01:59.272
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 12:02:01.756
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 12:02:01.771
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 12:02:41.580
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 12:02:41.590
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 12:02:41.594
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 12:02:41.600
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 12:02:41.608
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put something a - 2024-08-12 12:02:50.868
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: something - 2024-08-12 12:02:50.876
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get something - 2024-08-12 12:02:54.563
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 12:02:54.567
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get something - 2024-08-12 12:03:02.498
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:03:02.506
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put n a - 2024-08-12 12:03:10.651
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: n - 2024-08-12 12:03:10.666
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get n - 2024-08-12 12:03:15.111
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:03:15.112
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get n - 2024-08-12 12:03:17.404
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:03:17.406
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get n - 2024-08-12 12:03:19.649
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:03:19.652
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get n - 2024-08-12 12:03:33.469
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 12:03:33.472
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put i n - 2024-08-12 12:03:44.127
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: i - 2024-08-12 12:03:44.142
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get i - 2024-08-12 12:03:47.812
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:03:47.817
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: quit - 2024-08-12 12:03:51.171
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Invalid command - 2024-08-12 12:03:51.173
+Activity - Client Closed - 2024-08-12 12:03:55.144
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 12:03:55.149
+Activity - Client Closed - 2024-08-12 12:03:58.561
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 12:03:58.567
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 12:35:37.886
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 12:35:37.905
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 12:35:37.920
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 12:35:37.935
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 12:35:37.947
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 12:35:41.118
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 12:35:41.133
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 12:35:41.144
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 12:35:41.152
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 12:35:41.158
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 12:35:45.694
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 12:35:45.714
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 12:35:51.006
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:35:51.010
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 12:38:45.532
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:38:45.541
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 12:42:11.769
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 12:44:37.341
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 12:44:37.356
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 12:44:37.367
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 12:44:37.381
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 12:44:37.393
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 12:44:40.570
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 12:44:40.591
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 12:44:42.944
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 12:44:42.947
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 12:51:28.467
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 12:51:41.764
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 12:51:41.780
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 12:51:41.792
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 12:51:41.805
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 12:51:41.817
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 12:53:47.149
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 12:54:25.177
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 12:54:25.192
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 12:54:25.220
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 12:54:25.230
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 12:54:25.239
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 13:01:07.503
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 13:01:17.856
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 13:01:17.874
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 13:01:17.888
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 13:01:17.900
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 13:01:17.914
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 13:03:35.618
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 13:03:51.938
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 13:03:51.955
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 13:03:51.968
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 13:03:51.980
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 13:03:51.990
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a B - 2024-08-12 13:03:55.564
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 13:03:55.587
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: GET A - 2024-08-12 13:03:58.834
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 13:03:58.837
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 13:08:13.562
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 13:08:28.669
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 13:08:28.687
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 13:08:28.700
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 13:08:28.711
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 13:08:28.721
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 13:10:47.029
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 13:11:16.275
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 13:11:16.294
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 13:11:16.309
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 13:11:16.324
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 13:11:16.342
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 13:11:19.563
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 13:11:19.587
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 13:11:21.238
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 13:11:21.242
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 13:11:26.737
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 13:11:39.177
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 13:11:39.196
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 13:11:39.210
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 13:11:39.221
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 13:11:39.230
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 13:11:42.712
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 13:11:42.713
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put c d - 2024-08-12 13:11:46.242
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: c - 2024-08-12 13:11:46.262
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get c - 2024-08-12 13:11:52.064
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: d - 2024-08-12 13:11:52.069
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 13:46:56.453
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 14:50:35.484
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 14:50:35.502
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 14:50:35.518
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 14:50:35.531
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 14:50:35.542
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: ¸ - 2024-08-12 14:50:43.180
+Error - Exception in RMIClient: Connection refused to host: 127.0.0.1; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused) - 2024-08-12 14:50:43.196
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 14:50:43.206
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 14:50:47.087
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 14:50:47.108
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 14:50:47.136
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 14:50:47.152
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 14:50:47.159
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 14:50:56.559
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 14:50:56.626
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 14:51:00.125
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 14:51:00.129
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put c d - 2024-08-12 14:51:03.775
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: c - 2024-08-12 14:51:03.797
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get c - 2024-08-12 14:51:06.757
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: d - 2024-08-12 14:51:06.760
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get c - 2024-08-12 14:52:50.362
+Error - Exception in RMIClient: Connection refused to host: 127.0.0.1; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused) - 2024-08-12 14:52:50.383
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 14:52:50.413
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get d - 2024-08-12 14:53:05.730
+Error - Exception in RMIClient: Connection refused to host: 127.0.0.1; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused) - 2024-08-12 14:53:05.758
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 14:53:05.766
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:39:44.795
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:39:44.817
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:39:44.832
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:39:44.847
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:39:44.868
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:40:08.201
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:40:21.749
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:40:21.771
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:40:21.789
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:40:21.802
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:40:21.810
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:40:47.666
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:40:47.674
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:40:47.676
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:40:47.678
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:40:47.680
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 16:43:34.865
+Error - Exception in RMIClient: Connection refused to host: 127.0.0.1; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused) - 2024-08-12 16:43:34.871
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:43:34.895
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:43:41.482
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:43:47.397
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:43:47.409
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:43:47.415
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:43:47.420
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:43:47.425
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:47:32.725
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:47:36.309
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:47:36.332
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:47:36.348
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:47:36.360
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:47:36.368
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:48:52.388
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:48:54.805
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:48:54.830
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:48:54.848
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:48:54.874
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:48:54.894
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:49:33.616
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:49:35.476
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:49:35.496
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:49:35.511
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:49:35.523
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:49:35.530
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:51:01.786
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:51:08.353
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:51:08.384
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:51:08.402
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:51:08.421
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:51:08.446
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:53:09.501
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:53:11.709
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:53:11.731
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:53:11.746
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:53:11.759
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:53:11.766
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:53:17.928
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:53:17.950
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:53:17.963
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:53:17.980
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:53:17.995
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:54:37.206
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:54:47.831
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:54:49.972
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:54:49.982
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:54:49.987
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:54:49.992
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:54:49.997
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:54:53.875
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:54:53.886
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:54:53.891
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:54:53.897
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:54:53.903
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 16:55:07.335
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 16:55:07.346
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 16:55:11.444
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 16:55:11.449
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 16:55:14.311
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 16:55:14.312
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:55:24.773
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:55:24.786
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:55:24.797
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:55:24.812
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:55:24.822
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a - 2024-08-12 16:55:27.532
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 16:55:27.533
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 16:55:33.416
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 16:55:33.429
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 16:55:36.500
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 16:55:36.500
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 16:55:40.785
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 16:55:40.791
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:57:37.850
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:57:39.497
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:57:39.515
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:57:39.532
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:57:39.545
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:57:39.552
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:57:41.599
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:57:43.848
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:57:43.871
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:57:43.885
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:57:43.901
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:57:43.910
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 16:57:48.723
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 16:57:48.744
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 16:57:52.110
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 16:57:52.114
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:58:16.346
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 16:58:18.712
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:58:31.810
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:58:31.828
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:58:31.841
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:58:31.853
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:58:31.864
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:58:34.650
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 16:58:34.668
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 16:58:34.679
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 16:58:34.691
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 16:58:34.709
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 16:58:41.112
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Kohli - 2024-08-12 16:58:41.116
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put player rohit - 2024-08-12 16:58:51.014
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:58:51.033
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 16:58:56.796
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: rohit - 2024-08-12 16:58:56.798
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete player - 2024-08-12 16:59:03.760
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:59:03.783
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 16:59:07.986
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: rohit - 2024-08-12 16:59:07.988
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 16:59:13.369
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: rohit - 2024-08-12 16:59:13.372
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 16:59:16.330
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: rohit - 2024-08-12 16:59:16.332
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 16:59:27.454
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: rohit - 2024-08-12 16:59:27.459
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put player jadeja - 2024-08-12 16:59:57.328
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 16:59:57.350
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 17:00:02.140
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: jadeja - 2024-08-12 17:00:02.143
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 17:00:05.890
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: jadeja - 2024-08-12 17:00:05.905
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete player - 2024-08-12 17:00:09.307
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:00:09.327
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 17:00:13.115
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: jadeja - 2024-08-12 17:00:13.116
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:02:42.800
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:02:45.929
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:02:45.951
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:02:45.966
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:02:45.978
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:02:45.989
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 17:02:49.250
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:02:49.274
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 17:02:51.221
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 17:02:51.223
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:02:54.498
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:02:54.517
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 17:02:57.264
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 17:02:57.266
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:06:03.315
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:06:05.200
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:06:05.221
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:06:05.237
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:06:05.251
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:06:05.263
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a v - 2024-08-12 17:06:07.829
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:06:07.852
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:06:11.678
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:06:11.704
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 17:06:14.255
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: v - 2024-08-12 17:06:14.257
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:06:59.733
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:07:01.399
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:07:01.421
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:07:01.436
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:07:01.447
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:07:01.454
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a v - 2024-08-12 17:07:05.311
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:07:05.339
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:07:09.323
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:07:09.351
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:08:02.061
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:08:03.703
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:08:03.728
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:08:03.744
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:08:03.759
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:08:03.767
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 17:08:05.754
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:08:05.779
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:08:11.595
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:08:11.622
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 17:08:16.223
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 17:08:16.226
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:10:02.600
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:10:08.487
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:10:08.509
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:10:08.523
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:10:08.531
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:10:08.539
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 17:10:11.575
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:10:11.607
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:10:15.759
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:10:15.784
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: ¸ - 2024-08-12 17:10:48.629
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Invalid command - 2024-08-12 17:10:48.635
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:10:48.994
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:10:52.580
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:11:22.990
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:11:23.009
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:11:23.029
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:11:23.045
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:11:23.058
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 17:11:31.833
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 17:11:31.838
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 17:11:34.725
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:11:34.764
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:11:39.282
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:11:39.302
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:12:37.461
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:12:57.350
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:12:57.370
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:12:57.384
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:12:57.394
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:12:57.403
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 17:13:00.500
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:13:00.523
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:13:03.391
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:13:03.416
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:13:29.057
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:13:39.573
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:13:39.595
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:13:39.611
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:13:39.626
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:13:39.642
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 17:13:42.686
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:13:42.712
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 17:13:44.711
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 17:13:44.735
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 17:13:46.639
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 17:13:46.642
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:13:50.217
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:14:01.531
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:15:23.262
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:15:23.281
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:15:23.296
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:15:23.312
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:15:23.322
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 17:16:03.048
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:16:12.447
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:16:12.468
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:16:12.483
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:16:12.492
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:16:12.498
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 17:16:19.583
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 17:16:19.603
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 17:16:19.616
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 17:16:19.626
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 17:16:19.636
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put something good - 2024-08-12 17:16:29.002
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: something - 2024-08-12 17:16:29.026
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get something - 2024-08-12 17:16:34.506
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: good - 2024-08-12 17:16:34.510
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete something - 2024-08-12 17:16:40.529
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: something - 2024-08-12 17:16:40.554
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get something - 2024-08-12 17:16:44.958
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 17:16:44.960
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test2 a - 2024-08-12 17:17:03.294
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test2 - 2024-08-12 17:17:03.302
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test3 b - 2024-08-12 17:17:08.946
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test3 - 2024-08-12 17:17:08.954
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test4 c - 2024-08-12 17:17:13.983
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test4 - 2024-08-12 17:17:13.993
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test4 - 2024-08-12 17:17:19.196
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 17:17:19.199
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test4 - 2024-08-12 17:17:28.191
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 17:17:28.195
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test4 c - 2024-08-12 17:17:38.945
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test4 - 2024-08-12 17:17:38.967
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test 4 - 2024-08-12 17:18:06.573
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 17:18:06.578
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test4 - 2024-08-12 17:18:12.786
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: c - 2024-08-12 17:18:12.789
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 19:15:43.755
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 19:15:45.447
+Error - Exception in RMIClient: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused) - 2024-08-12 19:16:13.326
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:16:36.576
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 19:16:36.596
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 19:16:36.610
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 19:16:36.624
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 19:16:36.637
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:16:46.943
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 19:16:46.958
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 19:16:46.970
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 19:16:46.985
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 19:16:46.997
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test1 a - 2024-08-12 19:17:07.296
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test1 - 2024-08-12 19:17:07.316
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test1 - 2024-08-12 19:17:15.154
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 19:17:15.159
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete test1 - 2024-08-12 19:17:25.347
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test1 - 2024-08-12 19:17:25.369
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test1 - 2024-08-12 19:17:32.428
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:17:32.430
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test2 a - 2024-08-12 19:17:41.535
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test2 - 2024-08-12 19:17:41.552
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test2 - 2024-08-12 19:17:51.898
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 19:17:51.902
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete test2 - 2024-08-12 19:18:10.078
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test2 - 2024-08-12 19:18:10.096
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test2 - 2024-08-12 19:18:15.495
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:18:15.498
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test3 b - 2024-08-12 19:18:29.608
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test3 - 2024-08-12 19:18:29.630
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test3 - 2024-08-12 19:18:34.778
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 19:18:34.780
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test3 - 2024-08-12 19:18:41.538
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 19:18:41.544
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete test3 - 2024-08-12 19:18:53.375
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test3 - 2024-08-12 19:18:53.393
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test3 - 2024-08-12 19:18:57.756
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:18:57.758
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test4 c - 2024-08-12 19:19:34.261
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test4 - 2024-08-12 19:19:34.271
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test4 - 2024-08-12 19:19:39.059
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:19:39.062
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test5 c - 2024-08-12 19:20:25.278
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test5 - 2024-08-12 19:20:25.288
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test5 - 2024-08-12 19:20:29.670
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:20:29.672
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test5 - 2024-08-12 19:21:20.109
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:21:20.120
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put test5 c - 2024-08-12 19:21:30.323
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: test5 - 2024-08-12 19:21:30.340
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get test5 - 2024-08-12 19:21:34.299
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: c - 2024-08-12 19:21:34.301
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 19:21:58.677
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 19:22:01.381
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:24:44.013
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 19:24:44.031
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 19:24:44.046
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 19:24:44.060
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 19:24:44.071
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:24:48.042
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 19:24:48.059
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 19:24:48.072
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 19:24:48.084
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 19:24:48.091
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put some g - 2024-08-12 19:24:54.212
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: some - 2024-08-12 19:24:54.234
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get some g - 2024-08-12 19:25:00.372
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:25:00.375
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 19:25:17.820
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 19:25:21.200
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:28:06.639
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 19:28:06.660
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 19:28:06.673
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 19:28:06.686
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 19:28:06.703
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:28:08.834
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: position - 2024-08-12 19:28:08.850
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: strength - 2024-08-12 19:28:08.861
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: weakness - 2024-08-12 19:28:08.866
+Activity - Pre-populated byClient pauls-MacBook-Air.local-127.0.0.1 received response: favorite - 2024-08-12 19:28:08.872
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put some g - 2024-08-12 19:28:12.564
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: some - 2024-08-12 19:28:12.592
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get some - 2024-08-12 19:28:15.673
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: g - 2024-08-12 19:28:15.677
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete some - 2024-08-12 19:28:18.996
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: some - 2024-08-12 19:28:19.023
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get some - 2024-08-12 19:28:22.583
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:28:22.586
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put another b - 2024-08-12 19:28:28.237
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: another - 2024-08-12 19:28:28.261
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get another - 2024-08-12 19:28:34.398
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: b - 2024-08-12 19:28:34.401
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete another - 2024-08-12 19:28:39.445
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: another - 2024-08-12 19:28:39.460
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 19:28:47.872
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: Kohli - 2024-08-12 19:28:47.875
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put player rohit - 2024-08-12 19:28:53.478
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:28:53.500
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 19:28:57.473
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: rohit - 2024-08-12 19:28:57.477
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete player - 2024-08-12 19:29:01.867
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: player - 2024-08-12 19:29:01.890
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get player - 2024-08-12 19:29:05.431
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:29:05.433
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put fav food - 2024-08-12 19:29:18.363
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: fav - 2024-08-12 19:29:18.384
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get fav - 2024-08-12 19:29:22.618
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: food - 2024-08-12 19:29:22.623
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: put a b - 2024-08-12 19:29:33.500
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 19:29:33.521
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: delete a - 2024-08-12 19:29:37.443
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: a - 2024-08-12 19:29:37.456
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 sent command: get a - 2024-08-12 19:29:40.072
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 received response: NULL - 2024-08-12 19:29:40.074
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 22:21:19.015
+Error - Exception in RMIClient: No line found - 2024-08-12 22:21:19.014
+Activity - Client pauls-MacBook-Air.local-127.0.0.1 is shutting down. - 2024-08-12 22:21:19.029
